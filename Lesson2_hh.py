@@ -76,4 +76,4 @@ for page in range(int(pages_input)):
 
 # Сохранение результатов в датафрейм
 df_vacancies = pd.DataFrame(vacancies)
-df_vacancies.to_csv(f'~//PycharmProjects//test//Lesson2//df_vacancies_{vacancy_input}.csv', encoding='utf-8')
+df_vacancies.to_csv(f'df_vacancies_hh_{vacancy_input}.csv', encoding='utf-8')
