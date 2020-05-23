@@ -1,0 +1,70 @@
+,name,link,company,salary_min,salary_max,currency,source
+0,Преподаватель по курсу (Python для машинного обучения),https://russia.superjob.ru/vakansii/prepodavatel-po-kursu-32448389.html,ДПО Центр «Профессионал»,NaN,NaN,NaN,superjob.ru
+1,Senior Python Developer,https://russia.superjob.ru/vakansii/senior-python-developer-33807534.html,Art2Hires,140000,160000,000,superjob.ru
+2,Инженер сети передачи данных,https://russia.superjob.ru/vakansii/inzhener-seti-peredachi-dannyh-33838909.html,Группа Управляющих компаний,NaN,NaN,NaN,superjob.ru
+3,Специалист операционного планирования и аналитики продаж,https://russia.superjob.ru/vakansii/specialist-operacionnogo-planirovaniya-i-analitiki-prodazh-33479327.html,Тинькофф Банк,NaN,NaN,NaN,superjob.ru
+4,Старший программист,https://russia.superjob.ru/vakansii/starshij-programmist-33801514.html,Снежная Королева,NaN,180000,руб.,superjob.ru
+5,Специалист по информационной безопасности,https://russia.superjob.ru/vakansii/specialist-po-informacionnoj-bezopasnosti-33577807.html,"""Концерн ""Калашников""",NaN,NaN,NaN,superjob.ru
+6,Генетик-аналитик данных / Data scientist,https://russia.superjob.ru/vakansii/genetik-analitik-dannyh-33864238.html,ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ,NaN,NaN,NaN,superjob.ru
+7,Инженер-программист,https://russia.superjob.ru/vakansii/inzhener-programmist-33092773.html,ВНИИФТРИ,40000,NaN,руб.,superjob.ru
+8,Учитель робототехники,https://russia.superjob.ru/vakansii/uchitel-robototehniki-33835076.html,ГБОУ Школа № 1561,NaN,NaN,NaN,superjob.ru
+9,Ведущий разработчик (back-end),https://russia.superjob.ru/vakansii/veduschij-razrabotchik-33809980.html,РОСГОССТРАХ Банк,NaN,NaN,NaN,superjob.ru
+10,Главный инженер в департамент базовых платформенных компонентов,https://russia.superjob.ru/vakansii/glavnyj-inzhener-v-departament-bazovyh-platformennyh-komponentov-33537864.html,Сбербанк России,NaN,NaN,NaN,superjob.ru
+11,Инженер в области машинного обучения,https://russia.superjob.ru/vakansii/inzhener-v-oblasti-mashinnogo-obucheniya-33556440.html,"Федеральное государственное научное учреждение ""Центр информационных технологий и систем органов исполнительной власти""",NaN,NaN,NaN,superjob.ru
+12,Web-программист / Web-разработчик,https://russia.superjob.ru/vakansii/web-programmist-33861531.html,"ГОБУ ""Центр информационных технологий Мурманской области""",47000,47000,руб.,superjob.ru
+13,Релиз-инженер,https://russia.superjob.ru/vakansii/reliz-inzhener-32902390.html,Э-Студио,30000,NaN,руб.,superjob.ru
+14,Rust Developer,https://russia.superjob.ru/vakansii/rust-developer-33742484.html,TR Logic LLC,160000,164000,000,superjob.ru
+15,Data-инженер,https://russia.superjob.ru/vakansii/data-inzhener-33782073.html,Триумф,NaN,NaN,NaN,superjob.ru
+16,VoIP разработчик,https://russia.superjob.ru/vakansii/voip-razrabotchik-33844497.html,Смартер,NaN,120000,руб.,superjob.ru
+17,Инженер-программист,https://russia.superjob.ru/vakansii/inzhener-programmist-33849136.html,Академия цифровых технологий,24000,NaN,руб.,superjob.ru
+18,Программист C++,https://russia.superjob.ru/vakansii/programmist-c-33859971.html,АргусСофт,NaN,NaN,NaN,superjob.ru
+19,Системный администратор,https://russia.superjob.ru/vakansii/sistemnyj-administrator-33719139.html,NaN,NaN,NaN,NaN,superjob.ru
+20,Преподаватель по курсу (Python для машинного обучения),https://russia.superjob.ru/vakansii/prepodavatel-po-kursu-32448389.html,ДПО Центр «Профессионал»,NaN,NaN,NaN,superjob.ru
+21,Senior Python Developer,https://russia.superjob.ru/vakansii/senior-python-developer-33807534.html,Art2Hires,140000,160000,000,superjob.ru
+22,Инженер сети передачи данных,https://russia.superjob.ru/vakansii/inzhener-seti-peredachi-dannyh-33838909.html,Группа Управляющих компаний,NaN,NaN,NaN,superjob.ru
+23,Специалист операционного планирования и аналитики продаж,https://russia.superjob.ru/vakansii/specialist-operacionnogo-planirovaniya-i-analitiki-prodazh-33479327.html,Тинькофф Банк,NaN,NaN,NaN,superjob.ru
+24,Старший программист,https://russia.superjob.ru/vakansii/starshij-programmist-33801514.html,Снежная Королева,NaN,180000,руб.,superjob.ru
+25,Специалист по информационной безопасности,https://russia.superjob.ru/vakansii/specialist-po-informacionnoj-bezopasnosti-33577807.html,"""Концерн ""Калашников""",NaN,NaN,NaN,superjob.ru
+26,Генетик-аналитик данных / Data scientist,https://russia.superjob.ru/vakansii/genetik-analitik-dannyh-33864238.html,ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ,NaN,NaN,NaN,superjob.ru
+27,Инженер-программист,https://russia.superjob.ru/vakansii/inzhener-programmist-33092773.html,ВНИИФТРИ,40000,NaN,руб.,superjob.ru
+28,Учитель робототехники,https://russia.superjob.ru/vakansii/uchitel-robototehniki-33835076.html,ГБОУ Школа № 1561,NaN,NaN,NaN,superjob.ru
+29,Ведущий разработчик (back-end),https://russia.superjob.ru/vakansii/veduschij-razrabotchik-33809980.html,РОСГОССТРАХ Банк,NaN,NaN,NaN,superjob.ru
+30,Главный инженер в департамент базовых платформенных компонентов,https://russia.superjob.ru/vakansii/glavnyj-inzhener-v-departament-bazovyh-platformennyh-komponentov-33537864.html,Сбербанк России,NaN,NaN,NaN,superjob.ru
+31,Инженер в области машинного обучения,https://russia.superjob.ru/vakansii/inzhener-v-oblasti-mashinnogo-obucheniya-33556440.html,"Федеральное государственное научное учреждение ""Центр информационных технологий и систем органов исполнительной власти""",NaN,NaN,NaN,superjob.ru
+32,Web-программист / Web-разработчик,https://russia.superjob.ru/vakansii/web-programmist-33861531.html,"ГОБУ ""Центр информационных технологий Мурманской области""",47000,47000,руб.,superjob.ru
+33,Релиз-инженер,https://russia.superjob.ru/vakansii/reliz-inzhener-32902390.html,Э-Студио,30000,NaN,руб.,superjob.ru
+34,Rust Developer,https://russia.superjob.ru/vakansii/rust-developer-33742484.html,TR Logic LLC,160000,164000,000,superjob.ru
+35,Data-инженер,https://russia.superjob.ru/vakansii/data-inzhener-33782073.html,Триумф,NaN,NaN,NaN,superjob.ru
+36,VoIP разработчик,https://russia.superjob.ru/vakansii/voip-razrabotchik-33844497.html,Смартер,NaN,120000,руб.,superjob.ru
+37,Инженер-программист,https://russia.superjob.ru/vakansii/inzhener-programmist-33849136.html,Академия цифровых технологий,24000,NaN,руб.,superjob.ru
+38,Программист C++,https://russia.superjob.ru/vakansii/programmist-c-33859971.html,АргусСофт,NaN,NaN,NaN,superjob.ru
+39,Системный администратор,https://russia.superjob.ru/vakansii/sistemnyj-administrator-33719139.html,NaN,NaN,NaN,NaN,superjob.ru
+40,Ведущий системный администратор,https://russia.superjob.ru/vakansii/veduschij-sistemnyj-administrator-33495885.html,"""Концерн ""Калашников""",NaN,NaN,NaN,superjob.ru
+41,Инженер DevOps,https://russia.superjob.ru/vakansii/inzhener-devops-33809969.html,РОСГОССТРАХ Банк,NaN,NaN,NaN,superjob.ru
+42,Ведущий инженер в отдел серверных систем Linux,https://russia.superjob.ru/vakansii/veduschij-inzhener-v-otdel-servernyh-sistem-linux-32655305.html,Сбербанк России,NaN,NaN,NaN,superjob.ru
+43,Системный администратор,https://russia.superjob.ru/vakansii/sistemnyj-administrator-33463087.html,Э-Студио,30000,NaN,руб.,superjob.ru
+44,Data scientist,https://russia.superjob.ru/vakansii/data-scientist-33832075.html,Андата,NaN,NaN,NaN,superjob.ru
+45,"Веб-программист (PHP, MySQL, HTML5)",https://russia.superjob.ru/vakansii/veb-programmist-32368647.html,WireGeo,40000,50000,000,superjob.ru
+46,"Инженер, техник",https://russia.superjob.ru/vakansii/inzhener-33089687.html,ВНИИФТРИ,35000,NaN,руб.,superjob.ru
+47,Системный администратор Linux,https://russia.superjob.ru/vakansii/sistemnyj-administrator-linux-33832459.html,Мария-РА,50000,NaN,руб.,superjob.ru
+48,Инженер по качеству (для людей с ограниченными возможностями),https://russia.superjob.ru/vakansii/inzhener-po-kachestvu-33543776.html,Кадровое решение СПб,70000,NaN,руб.,superjob.ru
+49,IT-специалист,https://russia.superjob.ru/vakansii/it-specialist-33815598.html,Капитал инвест,80000,NaN,руб.,superjob.ru
+50,"Ведущий разработчик Oracle, программист",https://russia.superjob.ru/vakansii/veduschij-razrabotchik-oracle-33848252.html,"Публичное акционерное общество ""Новомосковскремэнерго"" (ПАО ""НОРЭ"")",NaN,NaN,NaN,superjob.ru
+51,Менеджер по внутреннему аудиту,https://russia.superjob.ru/vakansii/menedzher-po-vnutrennemu-auditu-33794588.html,Мегаполис,NaN,NaN,NaN,superjob.ru
+52,"Data scientist, специалист по обучению нейронных сетей",https://russia.superjob.ru/vakansii/data-scientist-33826570.html,Софт технолоджи,NaN,NaN,NaN,superjob.ru
+53,Программист микроконтроллеров,https://russia.superjob.ru/vakansii/programmist-mikrokontrollerov-33846983.html,МФТИ ГУ,NaN,NaN,NaN,superjob.ru
+54,Программист 1 категории,https://russia.superjob.ru/vakansii/programmist-1-kategorii-33525761.html,"""Концерн ""НПО ""Аврора""",NaN,120000,руб.,superjob.ru
+55,"Системный администратор, IT-специалист",https://russia.superjob.ru/vakansii/sistemnyj-administrator-33845400.html,"ГБУЗ ""ДЦЛИ ДЗМ""",90000,100000,000,superjob.ru
+56,Web-программист,https://russia.superjob.ru/vakansii/web-programmist-33813670.html,Информационные технологии,30000,NaN,руб.,superjob.ru
+57,Главный эксперт Oracle Hyperion,https://russia.superjob.ru/vakansii/glavnyj-ekspert-oracle-hyperion-33812899.html,Газстройпром,NaN,NaN,NaN,superjob.ru
+58,Учитель информатики,https://russia.superjob.ru/vakansii/uchitel-informatiki-32382712.html,Школа №1158,78000,NaN,руб.,superjob.ru
+59,Аналитик,https://russia.superjob.ru/vakansii/analitik-33738136.html,Ипатюк Олег,50000,NaN,руб.,superjob.ru
+60,Инженер (программирование),https://russia.superjob.ru/vakansii/inzhener-33089911.html,ВНИИФТРИ,40000,NaN,руб.,superjob.ru
+61,Внутренний аудитор,https://russia.superjob.ru/vakansii/vnutrennij-auditor-33794586.html,Мегаполис,NaN,NaN,NaN,superjob.ru
+62,Инженер-испытатель,https://russia.superjob.ru/vakansii/inzhener-ispytatel-33846871.html,МФТИ ГУ,NaN,NaN,NaN,superjob.ru
+63,Инженер-программист SQL,https://russia.superjob.ru/vakansii/inzhener-programmist-sql-33516930.html,218 АРЗ,100000,NaN,руб.,superjob.ru
+64,DevOps specialist,https://russia.superjob.ru/vakansii/devops-specialist-33580194.html,Центр стратегического планирования медико-биологических рисков ФМБА РФ,120000,NaN,руб.,superjob.ru
+65,Программист C/С++,https://russia.superjob.ru/vakansii/programmist-c-33846645.html,МФТИ ГУ,NaN,NaN,NaN,superjob.ru
+66,ML/NLP Architect / ML/NLP Архитектор,https://russia.superjob.ru/vakansii/ml-33788781.html,МФТИ,120000,NaN,руб.,superjob.ru
+67,NLP Engineer / NLP инженер,https://russia.superjob.ru/vakansii/nlp-engineer-33788780.html,МФТИ,120000,NaN,руб.,superjob.ru
+68,Облачный инженер / Инженер систем хранения данных,https://russia.superjob.ru/vakansii/oblachnyj-inzhener-33840080.html,Центр стратегического планирования медико-биологических рисков ФМБА РФ,150000,NaN,руб.,superjob.ru
