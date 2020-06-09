@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for bookparser project
+# Scrapy settings for leroymerlinparser project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,30 +9,32 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'book_parser'
+BOT_NAME = 'leroymerlinparser'
 
-SPIDER_MODULES = ['book_parser.spiders']
-NEWSPIDER_MODULE = 'book_parser.spiders'
+SPIDER_MODULES = ['leroymerlinparser.spiders']
+NEWSPIDER_MODULE = 'leroymerlinparser.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36'
-
-# Obey robots.txt rules
-ROBOTSTXT_OBEY = False
 LOG_ENABLED = True
 LOG_LEVEL = 'DEBUG'
 
+IMAGES_STORE = 'image'
+
+# Obey robots.txt rules
+ROBOTSTXT_OBEY = False
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
+CONCURRENT_REQUESTS = 16
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-# DOWNLOAD_DELAY = 2
+DOWNLOAD_DELAY = 1.5
 # The download delay setting will honor only one of:
-# CONCURRENT_REQUESTS_PER_DOMAIN = 16
-# CONCURRENT_REQUESTS_PER_IP = 16
+#CONCURRENT_REQUESTS_PER_DOMAIN = 16
+#CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
 COOKIES_ENABLED = True
@@ -49,13 +51,13 @@ COOKIES_ENABLED = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'bookparser.middlewares.BookparserSpiderMiddleware': 543,
+#    'leroymerlinparser.middlewares.LeroymerlinparserSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'bookparser.middlewares.BookparserDownloaderMiddleware': 543,
+#    'leroymerlinparser.middlewares.LeroymerlinparserDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -67,8 +69,9 @@ COOKIES_ENABLED = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'book_parser.pipelines.Book_parserPipepline': 300,
-   }
+   'leroymerlinparser.pipelines.LeroymerlinparserPipeline': 300,
+   'leroymerlinparser.pipelines.LeroyMerlinPhotoPipelines': 200
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
